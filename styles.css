@@ -30,13 +30,13 @@ body {
 }
 
 .agripec {
-    max-height: 190px;
-    object-position: left center;
+  max-height: 210px;
+  object-position: left center;
 }
 
 .hmclause {
-    max-height: 85px;
-    object-position: right center;
+  max-height: 120px;
+  object-position: right center;
 }
 
 .title-block {
